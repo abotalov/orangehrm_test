@@ -1,0 +1,4 @@
+base_url: "https://opensource-demo.orangehrmlive.com"
+admin_username: "Admin"
+admin_password: "admin123"
+timeout_seconds: 10
